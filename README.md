@@ -1,5 +1,4 @@
-# Simple Shell - ECS 150
-Professor: Samuel King
+# Simple Shell
 
 ### wish: "wisconsin" shell
 - runs commands
